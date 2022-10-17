@@ -1,6 +1,0 @@
-=== Unit Test
-
-This directory contains the unit-test interface.
-
-catch.hpp is from https://github.com/philsquared/Catch.
-

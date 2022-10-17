@@ -1,3 +1,0 @@
-This directory contains new utility classes and methods for use by the
-framework.
-
